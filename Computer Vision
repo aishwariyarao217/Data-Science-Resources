@@ -1,2 +1,8 @@
-#Object Detection
-https://medium.com/@ODSC/overview-of-the-yolo-object-detection-algorithm-7b52a745d3e0#:~:text=YOLO%20is%20a%20clever%20convolutional,and%20probabilities%20for%20each%20region.
+OBJECT DETECTION RESOURCES 
+1) https://medium.com/@ODSC/overview-of-the-yolo-object-detection-algorithm-7b52a745d3e0#:~:text=YOLO%20is%20a%20clever%20convolutional,and%20probabilities%20for%20each%20region.
+2) https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e
+3) https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/#:~:text=In%20Fast%20RCNN%2C%20we%20feed,into%20a%20fully%20connected%20network.
+4) https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
+5) https://medium.com/analytics-vidhya/everything-you-need-to-know-to-train-your-custom-object-detector-model-using-yolov3-1bf0640b0905
+6) https://medium.com/@akarshzingade/logo-detection-using-yolov2-8cda5a68740e
+7) https://medium.com/@manivannan_data/how-to-train-yolov2-to-detect-custom-objects-9010df784f36
