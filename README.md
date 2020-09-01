@@ -2,6 +2,13 @@
 
 A repo that contains all the interesting articles I have come across while doing research for various projects. 
 
+# General Deep Learning Knowledge
+1) https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
+
+2) https://machinelearningmastery.com/gradient-descent-for-machine-learning/
+
+3) https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
+
 # Object Detection 
 1) https://medium.com/@ODSC/overview-of-the-yolo-object-detection-algorithm-7b52a745d3e0#:~:text=YOLO%20is%20a%20clever%20convolutional,and%20probabilities%20for%20each%20region.
 
