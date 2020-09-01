@@ -27,3 +27,5 @@ A repo that contains all the interesting articles I have come across while doing
 7) https://medium.com/@manivannan_data/how-to-train-yolov2-to-detect-custom-objects-9010df784f36
 
 8) https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/
+
+9) https://appsilon.com/object-detection-yolo-algorithm/
