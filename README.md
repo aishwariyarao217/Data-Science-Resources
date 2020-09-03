@@ -29,3 +29,5 @@ A repo that contains all the interesting articles I have come across while doing
 8) https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/
 
 9) https://appsilon.com/object-detection-yolo-algorithm/
+
+10) https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
