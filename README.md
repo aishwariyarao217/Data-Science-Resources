@@ -31,3 +31,5 @@ A repo that contains all the interesting articles I have come across while doing
 9) https://appsilon.com/object-detection-yolo-algorithm/
 
 10) https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
+
+11) https://medium.com/analytics-vidhya/yolo-v3-theory-explained-33100f6d193
