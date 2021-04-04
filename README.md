@@ -33,3 +33,9 @@ A repo that contains all the interesting articles I have come across while doing
 10) https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
 
 11) https://medium.com/analytics-vidhya/yolo-v3-theory-explained-33100f6d193
+
+
+# NLP
+1) Universal Sentence Encoder 
+https://towardsdatascience.com/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15#:~:text=The%20Universal%20Sentence%20Encoder%20encodes,and%20other%20natural%20language%20tasks.&text=It%20comes%20with%20two%20variations,Deep%20Averaging%20Network%20(DAN).
+
